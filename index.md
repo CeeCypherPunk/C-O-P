@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+                                                  ## R E F I T T E D
 
 You can use the [editor on GitHub](https://github.com/CeeCypherPunk/C-O-P/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -32,6 +32,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CeeCypherPunk/C-O-P/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Support or Contact 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+[gilelias2@gmail.com](www.gilelias2@gmail.com)
