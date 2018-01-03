@@ -1,8 +1,7 @@
-   ## R E F I T T E D
+### refitted
 
 
 
-Merchandise
 
 ### Merchandise
 
@@ -13,7 +12,7 @@ Syntax highlighted code block
 
 
 # Tops
-
+![Pins on Jean Jacket](https://i.imgur.com/Rjx8QOb.jpg)
 
 
 
