@@ -7,23 +7,6 @@
 
 An ever-changing assortment of goods, available to anyone with the dough. ;)
 
-```markdown
-Syntax highlighted code block
-
-
-# Tops
-![Pins on Jean Jacket](https://octodex.github.com/images/yaktocat.png)
-
-
-
-## Bottoms
-
-
-
-**Bold** and _Italic_ and `Code` text
-### Goods
-[Link](url) and ![Image](src)
-```
 
 ![Pins on Jean Jacket](https://i.imgur.com/Rjx8QOb.jpg)
 
