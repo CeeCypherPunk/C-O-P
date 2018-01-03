@@ -1,28 +1,28 @@
-                                                  ## R E F I T T E D
+   ## R E F I T T E D
 
-You can use the [editor on GitHub](https://github.com/CeeCypherPunk/C-O-P/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Merchandise
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Merchandise
+
+An everchanging assortment of goods, available to anyone with the dough. ;)
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Tops
 
-1. Numbered
-2. List
+
+
+
+## Bottoms
+
+
 
 **Bold** and _Italic_ and `Code` text
-
+### Goods
 [Link](url) and ![Image](src)
 ```
 
