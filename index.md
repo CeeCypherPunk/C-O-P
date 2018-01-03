@@ -1,18 +1,18 @@
-### refitted
+# **_refitted_**
 
 
 
 
 ### Merchandise
 
-An everchanging assortment of goods, available to anyone with the dough. ;)
+An ever-changing assortment of goods, available to anyone with the dough. ;)
 
 ```markdown
 Syntax highlighted code block
 
 
 # Tops
-![Pins on Jean Jacket](https://i.imgur.com/Rjx8QOb.jpg)
+![Pins on Jean Jacket](https://octodex.github.com/images/yaktocat.png)
 
 
 
@@ -25,7 +25,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Pins on Jean Jacket](https://i.imgur.com/Rjx8QOb.jpg)
 
 ### Jekyll Themes
 
